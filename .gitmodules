@@ -5,3 +5,6 @@
 [submodule "AgriDiversiX"]
 	path = AgriDiversiX
 	url = https://github.com/cran/AgriDiversiX
+[submodule "srpi"]
+	path = srpi
+	url = https://github.com/cran/srpi
