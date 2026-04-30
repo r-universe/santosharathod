@@ -5,6 +5,9 @@
 [submodule "AgriDiversiX"]
 	path = AgriDiversiX
 	url = https://github.com/cran/AgriDiversiX
+[submodule "rgbIndices"]
+	path = rgbIndices
+	url = https://github.com/cran/rgbIndices
 [submodule "srpi"]
 	path = srpi
 	url = https://github.com/cran/srpi
